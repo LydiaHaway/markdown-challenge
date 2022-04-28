@@ -4,7 +4,7 @@ _“We’re all stories, in the end. Just make it a good one, eh?” Doctor Who_
 
 ![picture](./1647867017813.jpg)
 
-## "junior web developer"
+## "Junior web developer"
 
 |                     |                        |
 | ------------------- | ---------------------- |
@@ -34,6 +34,10 @@ We need to find a solution, looking for mutilple online sources.
 ### A funny story
 
 When I was way younger, I was sightseeing in a Zoo in Belgium when I got bite by a giraffe.
+
+#### TL;DR
+
+Once, I got bite by a giraffe
 
 ---
 
