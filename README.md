@@ -41,4 +41,4 @@ Once, I got bite by a giraffe
 
 ---
 
-[<< previous](https://github.com/henrihals?tab=repositories) || Lydia Haway || [next >>](https://github.com/MariyaMaki/markdown-challenge)
+[<< previous](https://github.com/Mirodeon/markdown-challenge) || Lydia Haway || [next >>]()
